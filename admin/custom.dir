@@ -1,0 +1,7 @@
+'avg_light_vehicle_time', (3584, 5)
+'avg_heavy_vehicle_time', (4096, 5)
+'no_of_lanes', (4608, 5)
+'inital_default_time', (5120, 5)
+'max_green_time', (5632, 5)
+'mini_green_time', (6144, 5)
+'pedes', (6656, 5)
